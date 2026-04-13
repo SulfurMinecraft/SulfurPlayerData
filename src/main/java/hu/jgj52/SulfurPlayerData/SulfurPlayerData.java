@@ -2,7 +2,7 @@ package hu.jgj52.SulfurPlayerData;
 
 import com.quietterminal.cattlelog.CowFileManager;
 import com.quietterminal.cattlelog.PlayerDataSerializer;
-import hu.jgj52.Sulfur.Utils.Plugin;
+import dev.sulfurmc.Sulfur.Utils.Plugin;
 import net.minestom.server.MinecraftServer;
 import net.minestom.server.entity.Player;
 

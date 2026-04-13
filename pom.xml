@@ -6,7 +6,7 @@
 
     <groupId>hu.jgj52</groupId>
     <artifactId>SulfurPlayerData</artifactId>
-    <version>1.2</version>
+    <version>1.3</version>
 
     <properties>
         <maven.compiler.source>25</maven.compiler.source>
@@ -72,9 +72,9 @@
 
     <dependencies>
         <dependency>
-            <groupId>hu.jgj52</groupId>
+            <groupId>dev.sulfurmc</groupId>
             <artifactId>Sulfur</artifactId>
-            <version>1.4</version>
+            <version>1.7</version>
             <scope>provided</scope>
         </dependency>
         <dependency>

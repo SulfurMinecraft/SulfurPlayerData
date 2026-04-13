@@ -2,8 +2,8 @@ package hu.jgj52.SulfurPlayerData;
 
 import com.quietterminal.cattlelog.PlayerDataDeserializer;
 import com.quietterminal.cattlelog.PlayerDataSerializer;
-import hu.jgj52.Sulfur.Utils.Listeners.Event;
-import hu.jgj52.Sulfur.Utils.Listeners.Listener;
+import dev.sulfurmc.Sulfur.Utils.Listeners.Event;
+import dev.sulfurmc.Sulfur.Utils.Listeners.Listener;
 import net.minestom.server.event.player.PlayerDisconnectEvent;
 import net.minestom.server.event.player.PlayerSpawnEvent;
 
